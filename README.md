@@ -3,7 +3,7 @@ Exemplo de implementação de testes de carga (API REST protegida por JWT) em Ja
 
 Aplicação testada:
 
-**https://github.com/renatogroffe/k6-LoadTests-Reports-JUnit-JWT-AzureDevOps_ContagemAcessos**
+**https://github.com/renatogroffe/ASPNETCore7-JWT_FormUrlEncoded-AppInsights-Swagger-Extensions-HttpFiles_ContagemAcessos**
 
 
 Esta API REST foi disponibilizada como uma **imagem pública** no **Docker Hub**:
